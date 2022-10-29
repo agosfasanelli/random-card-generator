@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.carta {
+  height: 400px;
+  width: 250px;
+  box-sizing: content-box;
+}
+.numeros {
+  height: 100px;
+  width: 60px;
+  font-size: 70px;
+}
