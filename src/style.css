@@ -6,7 +6,8 @@
   box-sizing: content-box;
 }
 .numeros {
-  height: 100px;
-  width: 60px;
   font-size: 70px;
+}
+#icono2 {
+  transform: rotate(180deg);
 }
